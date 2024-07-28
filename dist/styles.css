@@ -65,7 +65,7 @@ body {
 }
 .testimonial__item__image::after {
   content: "";
-  background-image: url("./../../images/pattern-bg.svg");
+  background-image: url("https://areactdeveloper.github.io/SASS-testimonial-slider-frontendmentor/images/images/pattern-bg.svg");
   background-repeat: no-repeat;
   background-size: cover;
   width: 400px;
@@ -108,7 +108,7 @@ body {
 }
 .testimonial__item__text::after {
   content: "";
-  background-image: url("./../../images/pattern-quotes.svg");
+  background-image: url("https://areactdeveloper.github.io/SASS-testimonial-slider-frontendmentor/images/images/pattern-quotes.svg");
   background-repeat: no-repeat;
   background-size: contain;
   width: 60px;
@@ -164,7 +164,7 @@ body {
 }
 .testimonial::after {
   content: "";
-  background-image: url("./../../images/pattern-curve.svg");
+  background-image: url("https://areactdeveloper.github.io/SASS-testimonial-slider-frontendmentor/images");
   background-repeat: no-repeat;
   background-size: contain;
   width: 100%;
