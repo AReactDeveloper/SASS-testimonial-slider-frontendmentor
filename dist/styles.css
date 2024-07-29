@@ -65,7 +65,7 @@ body {
 }
 .testimonial__item__image::after {
   content: "";
-  background-image: url("https://areactdeveloper.github.io/SASS-testimonial-slider-frontendmentor/images/images/pattern-bg.svg");
+  background-image: url("https://areactdeveloper.github.io/SASS-testimonial-slider-frontendmentor/images/pattern-bg.svg");
   background-repeat: no-repeat;
   background-size: cover;
   width: 400px;
